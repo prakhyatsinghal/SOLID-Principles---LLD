@@ -1,6 +1,4 @@
-/**
- * Created by mrk on 4/7/14.
- */
+
 public class Eagle implements Bird {
     String currentLocation;
     int numberOfFeathers;

@@ -5,9 +5,7 @@ import java.io.PrintStream;
 
 import static org.junit.Assert.assertEquals;
 
-/**
- * Created by mrk on 4/8/14.
- */
+
 public class WeatherTrackerTest {
     private final ByteArrayOutputStream outContent = new ByteArrayOutputStream();
 

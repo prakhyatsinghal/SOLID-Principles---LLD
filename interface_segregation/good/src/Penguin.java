@@ -1,6 +1,4 @@
-/**
- * Created by mrk on 4/7/14.
- */
+
 public class Penguin implements SwimmingCreature, FeatheredCreature {
     String currentLocation;
     int numberOfFeathers;
