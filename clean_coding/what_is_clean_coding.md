@@ -23,7 +23,7 @@ There should not be too many indentation levels.
 →  Dirty Code
 
 
-
+```
  public class MyClass {
 public static void main(String args[]) {
 
@@ -48,10 +48,11 @@ if((nums[i]+nums[i+1])%5==0)
 
    }
 }
-
+```
  
 →Clean Code
 
+```
 public class MyClass {
 
 public static boolean isSumDivisibleByVal(int sum,int val)
@@ -80,3 +81,4 @@ if(isSumDivisibleByVal(adjPairSum,divisors[j]))
 
    }
 }
+```
